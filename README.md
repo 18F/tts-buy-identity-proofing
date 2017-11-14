@@ -6,7 +6,7 @@ This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FA
 
 ## Background
 
-UPDATE
+login.gov is a growing platform and needs a variety of proofing methods, data sources in order to move towards the goal of universal coverage for the U.S population. As login.gov grows, there is the need to have the mix of methods/data sources that can most effectively proof login.gov’s partner agencies populations. The Government is highly interested in diverse approaches and data sources that can support this goal.
 
 ### How to respond
 
