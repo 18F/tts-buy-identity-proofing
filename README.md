@@ -1,6 +1,6 @@
 # TTS Login.gov Identity Proofing
 
-This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FAIpQLSeSVfCisffrWd7ugiQB_BdLcfRlHT9oaM3IUW0wnvW8vaIx6Q/viewform?usp=sf_link), posted on FedBizOpps.gov. Please submit any questions as [an Issue](https://github.com/18F/tts-buy-identity-proofing/issues) in this repository by *November 24, 2017 at 5:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FAIpQLSeSVfCisffrWd7ugiQB_BdLcfRlHT9oaM3IUW0wnvW8vaIx6Q/viewform?usp=sf_link), posted on [FedBizOpps.gov](https://www.fbo.gov/notices/17c48be921bd556beadbc3e22de03049). Please submit any questions as [an Issue](https://github.com/18F/tts-buy-identity-proofing/issues) in this repository by *November 24, 2017 at 5:00pm EST*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Responses are due by November 29, 2017 at 5:00pm EST.**
 
