@@ -10,7 +10,7 @@ login.gov is a growing platform and needs a variety of proofing methods, data so
 
 ### How to respond
 
-We can only commit to reviewing those responses submitted through the Google Form, linked above.
+We can only commit to reviewing those responses submitted through the Google Form, linked above, or via email to alberto.munoz@gsa.gov.
 
 ## Contents
 
