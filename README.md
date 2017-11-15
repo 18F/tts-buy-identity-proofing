@@ -6,7 +6,7 @@ This is the GitHub repository for [an RFI](https://docs.google.com/forms/d/e/1FA
 
 ## Background
 
-login.gov is a growing platform and needs a variety of proofing methods, data sources in order to move towards the goal of universal coverage for the U.S population. As login.gov grows, there is the need to have the mix of methods/data sources that can most effectively proof login.gov’s partner agencies populations. The Government is highly interested in diverse approaches and data sources that can support this goal.
+login.gov is a growing platform and needs a variety of proofing methods, data sources in order to move towards the goal of universal coverage for the U.S population. As login.gov grows there is the need to have the mix of methods/data sources that can most effectively proof login.gov’s partner agencies populations. The intent with a multi-award contract is to provide a broad base of contractors who the government can work with to have the highest proofing rate for an agency population. Each order will help support different population subsets and the data from those order will inform our planned proofing rate vs actual and allow for iterating. The Government is highly interested in diverse approaches and data sources that can support this goal.
 
 ### How to respond
 
